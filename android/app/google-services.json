@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295698428028",
+    "project_id": "library-ab5e6",
+    "storage_bucket": "library-ab5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295698428028:android:6fe8f2700e0f83879299f9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_library_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-m40uh6D0h5AQrtTQs5F1qBXBEijamg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295698428028:android:6fa794905849ec429299f9",
+        "android_client_info": {
+          "package_name": "com.lazy.programmer.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-m40uh6D0h5AQrtTQs5F1qBXBEijamg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
